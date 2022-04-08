@@ -1,0 +1,17 @@
+@use "reset";
+@use "variables";
+
+.attribution {
+  font-size: 0.8rem;
+  text-align: center;
+
+  a {
+    color: hsl(228, 45%, 44%);
+  }
+}
+
+.container {
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
